@@ -4,7 +4,7 @@
     <Platform Name="arm64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Helion/Helion.csproj" Id="20e6361a-a899-4993-8565-5d5c20b845f0">
+  <Project Path="src/Helion.csproj" Id="20e6361a-a899-4993-8565-5d5c20b845f0">
     <Platform Solution="*|arm64" Project="arm64" />
     <Platform Solution="*|x86" Project="x86" />
   </Project>

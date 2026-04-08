@@ -12,7 +12,7 @@ namespace Helion
         public const string Name = "Helion";
         public const string Description = @"A dark mode theme for Visual Studio 2026.";
         public const string Language = "en-US";
-        public const string Version = "1.0.22";
+        public const string Version = "1.0.24";
         public const string Author = "Brandon Gandy";
         public const string Tags = "theme, dark";
         public const bool IsPreview = false;
