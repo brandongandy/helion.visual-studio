@@ -116,7 +116,7 @@
         <Background Type="CT_RAW" Source="FF131313" />
       </Color>
       <Color Name="ControlSolidFillDefault">
-        <Background Type="CT_RAW" Source="FF454545" />
+        <Background Type="CT_RAW" Source="FF40576B" />
       </Color>
       <Color Name="ControlStrokeDefault">
         <Background Type="CT_RAW" Source="12FFFFFF" />
@@ -316,7 +316,7 @@
         <Background Type="CT_RAW" Source="0FFFFFFF" />
       </Color>
       <Color Name="EnvironmentBorderInactive">
-        <Background Type="CT_RAW" Source="FF454545" />
+        <Background Type="CT_RAW" Source="FF40576B" />
       </Color>
       <Color Name="EnvironmentLayeredBorder">
         <Background Type="CT_RAW" Source="80000000" />
@@ -4717,7 +4717,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="LandingPageConstrastBackground">
-        <Background Type="CT_RAW" Source="FF292929" />
+        <Background Type="CT_RAW" Source="FF1A2A38" />
       </Color>
       <Color Name="BorderLightContrast">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
