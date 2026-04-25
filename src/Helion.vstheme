@@ -1910,13 +1910,13 @@
         <Background Type="CT_RAW" Source="FF1A2A38" />
       </Color>
       <Color Name="PanelHyperlink">
-        <Background Type="CT_RAW" Source="FF83BEEB" />
+        <Background Type="CT_RAW" Source="FF40ABE5" />
       </Color>
       <Color Name="PanelHyperlinkDisabled">
-        <Background Type="CT_RAW" Source="FF808080" />
+        <Background Type="CT_RAW" Source="FFA8B6C0" />
       </Color>
       <Color Name="PanelHyperlinkHover">
-        <Background Type="CT_RAW" Source="FFE4E6E0" />
+        <Background Type="CT_RAW" Source="FF3FA89D" />
       </Color>
       <Color Name="PanelHyperlinkInsideSelection">
         <Foreground Type="CT_RAW" Source="FFE4E6E0" />
@@ -1930,7 +1930,7 @@
         <Foreground Type="CT_RAW" Source="FFE4E6E0" />
       </Color>
       <Color Name="PanelHyperlinkPressed">
-        <Background Type="CT_RAW" Source="FFE4E6E0" />
+        <Background Type="CT_RAW" Source="FFB163FF" />
       </Color>
       <Color Name="PanelSeparator">
         <Background Type="CT_RAW" Source="FF1A2A38" />
@@ -3656,11 +3656,11 @@
       </Color>
       <Color Name="Line Number">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF8A8A8A" />
+        <Foreground Type="CT_RAW" Source="FF4E7A98" />
       </Color>
       <Color Name="Selected Line Number">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE0E0E0" />
+        <Foreground Type="CT_RAW" Source="FFA8B6C0" />
       </Color>
       <Color Name="mergeEditor.AcceptedLine">
         <Background Type="CT_RAW" Source="FF215D4A" />
